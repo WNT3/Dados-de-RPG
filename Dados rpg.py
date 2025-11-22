@@ -1,3 +1,6 @@
+// OLD VERSION
+
+
 dadodvinte = int(input('Insira o valor do dado D20: '))
 print ('O valor do dado D20 é: ', dadodvinte)
 if dadodvinte == 20:
@@ -17,3 +20,4 @@ if 94 > dadodcem > 90:
 if 94 > dadodcem > 90:
     dadodquatro = int(input('Digite o valor de D4: '))
 print ('O valor do dado D4 é: ', dadodquatro)
+
